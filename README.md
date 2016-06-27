@@ -8,4 +8,4 @@ $ npm install
 $ grunt
 ```
 
-You may want to configure the manifest.json first before anything else. All of the would-be-distributed codes should be compiled in the pkg folder, while your development codes would be in app folder.
+You may want to configure the manifest.json first before anything else. All of the would-be-distributed codes should be compiled in the pkg folder, while your development codes would be in the app folder.
